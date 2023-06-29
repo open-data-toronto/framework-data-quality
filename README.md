@@ -9,4 +9,4 @@ This is the code behind the DQS, so we can share how the score is calculated. Th
 Although a high-level overview of the DQS is provided throughout the notebook, it is highly recommended to read the articles where we share in detail why the DQS was created and how (beyond the code):
 
 * (Towards a Data Quality Score in open data (part 1) - Why Open Data Toronto created a score to assess data quality and what it measures)[https://medium.com/@careduz/towards-a-data-quality-score-in-open-data-part-1-525e59f729e9]
-* Towards a Data Quality Score in open data (part 2) - How we created the DQS: a walkthrough for organizations facing similar challenges (coming soon)
+* Towards a Data Quality Score in open data (part 2) - How we created the DQS: a walkthrough for organizations facing similar challenges [https://medium.com/open-data-toronto/towards-a-data-quality-score-in-open-data-part-2-3f193eb9e21d]
